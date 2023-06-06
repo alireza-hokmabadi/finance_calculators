@@ -1,5 +1,14 @@
 # Financial Calculator
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Description
 This Python program is a financial calculator that allows users to calculate either the amount of interest they'll earn on their investment or the amount they'll have to pay on a home loan. Users input values such as deposit amount, interest rate, investing years, and type of interest calculation for investments, or present value of the house, interest rate, and number of months to repay the bond for home loans. The program then calculates and outputs the total amount or monthly repayment based on the input.
 
 ## Installation
@@ -40,3 +49,7 @@ Please make sure to update tests as appropriate.
 ## License
 
 MIT
+
+## Contact
+Author: Alireza Hokmabadi
+Email: a.hokmabadi.ee@gmail.com
