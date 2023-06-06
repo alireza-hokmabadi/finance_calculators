@@ -47,9 +47,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+You are free to use and modify this code in your own projects with proper attribution.
 
-MIT
-
-## Contact
-Author: Alireza Hokmabadi
-Email: a.hokmabadi.ee@gmail.com
+## Author
+- Author: Alireza Hokmabadi
+- Email: [a.hokmabadi.ee@gmail.com](mailto:a.hokmabadi.ee@gmail.com) 
