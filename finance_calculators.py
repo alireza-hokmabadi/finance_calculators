@@ -14,6 +14,7 @@ while True:
     if cal_type == "investment" or cal_type == "bond":
         print(f"You've chosen '{cal_type}' calculator \n")
         break
+        
     else:
         print("\n\n*********************************************")
         print("You entered a wrong value!!! Please try again.\n\n")
